@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 27, 2019
+### Day 0: February 6th, 2019
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Brushing up my Javascript Skills with Codeacademy. Learned to use Var, Let and Const
